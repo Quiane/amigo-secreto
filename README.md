@@ -9,7 +9,7 @@ JavaScript: Para a lógica do sorteio
 
 Como Usar
 
-Clone este repositório para sua máquina local
-Abra o arquivo index.html no seu navegador
-Adicione os nomes dos participantes na lista
-Clique no botão para realizar o sorteio!
+Clone este repositório para sua máquina local, 
+abra o arquivo index.html no seu navegador,
+adicione os nomes dos participantes na lista,
+clique no botão para realizar o sorteio!
